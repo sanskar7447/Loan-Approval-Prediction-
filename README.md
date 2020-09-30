@@ -12,3 +12,4 @@ This project covers the whole process from problem statement to model developmen
 This is a classification problem where we have to predict whether a loan will be approved or not. Specifically, it is a binary classification problem where we have to predict either one of the two classes given i.e. approved (Y) or not approved (N).The dependent variable or target variable is the Loan_Status, while the rest are independent variable or features. We need to develop a model using the features to predict the target variable.
 
  I scored accuracy of about 80.80% using RandomForestClassifier.
+I believe this is a nice score to begin with.
